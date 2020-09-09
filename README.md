@@ -6,7 +6,7 @@ a). Download the dataset form https://pan.baidu.com/s/1OU0B0tQ6tsbI3oC2J6omDg pa
 
 
 
-![1597958184163](pic1.png)
+![1597958184163](https://github.com/geoai-lab-siat/LFNet/blob/master/pic1.png)
 
 Figure 1: Representative images of fire, smoke and normal from the proposed datasets with their descriptions.
 
@@ -14,7 +14,7 @@ Figure 1: Representative images of fire, smoke and normal from the proposed data
 
 ## 2. The structure of LFNet
 
-![1597958232362](pic2.png)
+![1597958232362](https://github.com/geoai-lab-siat/LFNet/blob/master/pic2.png)
 
 Figure 2: The architecture of LFNet. LFNet conceptually consists of three sequential modules (skeleton feature module, main feature extraction module and predicting module), which is constructed by common convolution layers, bottleneck building blocks, parametric rectified linear unit, group normalization.
 
